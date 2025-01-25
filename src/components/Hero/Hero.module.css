@@ -110,4 +110,8 @@
   .content {
     align-items: center;
   }
+
+  .description, .title {
+    text-align: center;
+  }
 }
