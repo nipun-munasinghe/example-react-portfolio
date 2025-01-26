@@ -97,7 +97,17 @@
 
 /* responsive part */
 @media screen and (max-width: 830px) {
+
+    .container {
+        margin-top: 20px;
+    }
+
+    .title {
+        text-align: center;
+    }
+
     .content {
+        margin-top: 40px;
         flex-direction: column;
         align-items: center;
         gap: 34px;
