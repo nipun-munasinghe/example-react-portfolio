@@ -21,6 +21,11 @@
     display: flex;
 }
 
+.menuBtn  {
+    display: none;
+    cursor: pointer;
+}
+
 .menuItems {
     display: flex;
     gap: 47px;
@@ -34,6 +39,7 @@
     text-decoration: none;
 }
 
+/* responsive part */
 @media screen and (max-width: 830px) {
     .navbar {
         flex-direction: column;
