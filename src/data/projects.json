@@ -9,7 +9,7 @@
     },
     {
       "title": "Project B",
-      "imageSrc": "projects/projectB.png",
+      "imageSrc": "projects/projectB.jpg",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
       "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Project C",
-      "imageSrc": "projects/projectC.png",
+      "imageSrc": "projects/projectC.jpg",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
