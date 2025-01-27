@@ -42,7 +42,7 @@ npm run dev
 
 ## Screenshots
 
-![Landing Page](./assets/landing-page.png)
+![Landing Page](./public/assets/landing-page.png)
 
 
 ## Learning Experience
