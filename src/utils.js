@@ -1,3 +1,3 @@
-export const getImageUrl = (path) => {
-    return `/assets/${path}`;
-};
+export function getImageUrl(path) {
+    return `/example-react-portfolio/assets/${path}`;
+}  
